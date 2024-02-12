@@ -2,8 +2,9 @@
 
 *Nafissa BENALI & Ángel REYERO LOBO - February 2024*
 
+Teacher: *Hédi HADIJI*
 ## **Context**
-This project is undertaken as part of the evaluation for the *Theoretical Deep Learning* course in the second year of the Master's program in *Mathematics and Artificial Intelligence* at the Institut Mathématique d'Orsay (IMO) at Paris-Saclay University.
+This project is undertaken as part of the evaluation for the *Theoretical Deep Learning* course of CentraleSupélec in the second year of the Master's program in *Mathematics and Artificial Intelligence* at the Institut Mathématique d'Orsay (IMO) at Paris-Saclay University.
 
 ## **Overview**
 The objective of this study is to theoretically investigate why entering the Edge of Stability regime (the narrow window preceding the divergence threshold for step sizes) is advantageous for Stochastic Gradient Descent (SGD), whereas it is not beneficial for Gradient Descent (GD). 
