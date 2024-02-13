@@ -13,6 +13,9 @@ The objective of this study is to theoretically investigate why entering the Edg
 ## **Structure**
 This repository comprises the presentation slides for the project, a detailed report outlining how to interpret the main result, and a Jupyter Notebook file containing the functions used to create the graphs featured in the previous files. 
 
+## **How to run the code**
+To download all the figures, it is necessary to create a *Project* folder in the same folder where the file is run. Additionally, we recommend reducing the number of simulations for faster results.
+
 ## **Bibliography**
  Even, M., Pesme, S., Gunasekar, S., and Flammarion, N. (2023). (s)gd over diagonal linear networks:
  Implicit regularisation, large stepsizes and edge of stability.
